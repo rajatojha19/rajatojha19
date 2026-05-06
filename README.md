@@ -1,4 +1,4 @@
-# Hi, I'm Rajat 👨‍💻
+# Hi, I'm Rajat Ojha👨‍💻
 
 **Student Developer | AI/ML Enthusiast | Data Science & Problem Solver**
 
