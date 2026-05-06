@@ -61,9 +61,9 @@ Backend development project using Spring Boot framework. Demonstrates understand
 
 ## 📫 Let's Connect
 
-- **GitHub:** [github.com/rajatojha19](https://github.com/rajatojha19)
-- **Email:** [your-email@example.com](mailto:rajatojha2050@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rajat-ojha-95b7072a8)
+- **GitHub:** [Github](https://github.com/rajatojha19)
+- **Email:** [rajatojha2050@gmail.com](mailto:rajatojha2050@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rajat-ojha-95b7072a8)
 
 ---
 
