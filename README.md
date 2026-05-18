@@ -9,7 +9,7 @@ I'm passionate about building intelligent systems and solving real-world problem
 ## 🔧 Tech Stack
 
 **Languages:**
-- Python, Java, JavaScript, HTML, CSS
+- Python, C++, Java, JavaScript, HTML, CSS
 
 **AI/ML & Data Science:**
 - TensorFlow, Scikit-learn, Pandas, NumPy
@@ -36,10 +36,7 @@ Advanced machine learning project developed as part of VOIS AICTE training progr
 - **Focus:** Data analysis and ML modeling
 - [View Repository](https://github.com/rajatojha19/VOIS_AICTE_Oct2025_Rajat-Ojha)
 
-### ☕ Spring Internal
-Backend development project using Spring Boot framework. Demonstrates understanding of enterprise-level Java development.
-- **Tech:** Java, Spring Boot, REST APIs
-- [View Repository](https://github.com/rajatojha19/springinternal)
+### 
 
 ---
 
