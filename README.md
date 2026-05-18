@@ -36,7 +36,12 @@ Advanced machine learning project developed as part of VOIS AICTE training progr
 - **Focus:** Data analysis and ML modeling
 - [View Repository](https://github.com/rajatojha19/VOIS_AICTE_Oct2025_Rajat-Ojha)
 
-### 
+### 🎗️ CancerSupportCompanionAI
+Multi-agent AI system designed to provide emotional support, educational assistance, and question organization for cancer patients and caregivers. Built with responsible AI and healthcare safety considerations.
+- **Tech:** Python, Gemini AI, TensorFlow, Flask/FastAPI, Session Management
+- **Key Features:** Multi-agent architecture, emotional support assistant, educational guidance, question organizer, safety layer
+- **Focus:** Healthcare AI, Responsible AI, Conversational AI, Multi-Agent Systems
+[View Repository](https://github.com/yourusername/CancerSupportCompanionAI)
 
 ---
 
