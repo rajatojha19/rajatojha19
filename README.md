@@ -9,16 +9,12 @@ I'm passionate about building intelligent systems and solving real-world problem
 ## 🔧 Tech Stack
 
 **Languages:**
-- Python, C++, Java, JavaScript, HTML, CSS
+- Python, C++, JavaScript, HTML, CSS
 
 **AI/ML & Data Science:**
 - TensorFlow, Scikit-learn, Pandas, NumPy
 - Jupyter Notebook, Computer Vision
 - Data Analysis & Visualization
-
-**Other Technologies:**
-- Spring Boot, Git, REST APIs
-- Jupyter Notebook
 
 ---
 
