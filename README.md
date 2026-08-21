@@ -29,6 +29,7 @@ Multi-agent AI system providing emotional support, educational assistance, and q
 - **Tech:** Python, Gemini AI, TensorFlow, Flask/FastAPI, Session Management
 - **Key Features:** Multi-agent architecture, emotional support assistant, educational guidance, safety layer
 - **Focus:** Healthcare AI, Responsible AI, Conversational AI
+- 🔗 [Live Demo](https://companionai-cancer-support.streamlit.app/)
 
 ### 🥔 [PotatoDetection](https://github.com/rajatojha19/PotatoDetection)
 Computer vision model for potato disease detection using deep learning. Achieves high accuracy classifying healthy vs. diseased potatoes.
